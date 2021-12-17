@@ -1,0 +1,16 @@
+<odoo>
+    <data>
+
+          <record id="object0" model="persona.persona">
+            <field name="name">1515161D</field>
+            <field name="nombre">Pepelui</field>
+	    <field name="telefono">666615161</field>          
+	  </record>
+
+          <record id="object1" model="persona.persona">
+            <field name="name">11111111D</field>
+            <field name="nombre">Aleandro</field>
+	    <field name="telefono">665151161</field>
+          </record>
+    </data>
+</odoo>
